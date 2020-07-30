@@ -1,2 +1,2 @@
 # simplek8s
-Minkube training project
+Minkube training project; k8s
